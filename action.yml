@@ -1,6 +1,6 @@
-name: action-slack
+name: action-slack-dfosco
 description: You can notify slack of GitHub Actions.
-author: 8398a7
+author: dfosco
 inputs:
   status:
     description: Specify success or failure or cancelled or custom.
